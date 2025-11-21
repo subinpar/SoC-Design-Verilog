@@ -1,0 +1,24 @@
+# Simulation / ISim / ISE auto-generated files
+*.log
+*.cmd
+*.wdb
+*.exe
+*.out
+*.jou
+*.str
+*.xise
+*.xmsgs
+*.prj
+*.ini
+*.html
+
+# OS files
+.DS_Store
+
+# Vivado/ISE tmp
+*.cache
+*.runs
+*.sim
+*.ip_user_files
+*.hw
+
